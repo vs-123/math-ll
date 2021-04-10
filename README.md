@@ -1,6 +1,6 @@
 # math-ll
 
-![regex-ll](https://raw.githubusercontent.com/vs-123/math-ll/main/math-ll-icon.png?token=AES3AMV4F7JGQRLY24MN3LLAOFLFI)
+![regex-ll](https://github.com/vs-123/math-ll/blob/main/math-ll-icon.png)
 
 ## Introduction:
 **math-ll** is a lined-language that was designed for performing mathematical operations with ease.
