@@ -33,4 +33,5 @@ For now (since 10 April 2021), there are eight commands:
  - `root <n> info: Stores the nth root of the stored number.`
  - `factorial info: Stores the factorial of the stored number, and takes no arguments.`
  - `show info: Shows the stored number, and takes no arguments.`
+ 
  **Note: The inital stored value is zero.**
